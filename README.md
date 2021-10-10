@@ -17,4 +17,5 @@
 | Logictech Romer-CT             |    V    |        | 45               |
 
 ## Reference link
- > http://www.keyboardco.com/blog/index.php/2012/12/an-introduction-to-cherry-mx-mechanical-switches/
+ > http://www.keyboardco.com/blog/index.php/2012/12/an-introduction-to-cherry-mx-mechanical-switches
+ > https://mechanicalkeyboards.com/keyboard_guide.php
